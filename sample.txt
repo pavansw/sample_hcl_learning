@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello again from new developer licoy12
+=======
+HEllo again from new developer pavansw1
+>>>>>>> 6d95f651f926bd154847c153e5d63c1ca6e1d8b3
+#added a line to sample.txt
